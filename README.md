@@ -1,1 +1,2 @@
-# alu0100845235.github.io
+Autor: Ruymán Rodríguez Martín
+Email: alu0100845235@ull.edu.es
